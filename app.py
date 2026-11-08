@@ -3,7 +3,6 @@ import time
 import streamlit as st
 from dotenv import load_dotenv
 from google import genai
-
 load_dotenv()
 
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖")
